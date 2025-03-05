@@ -1,7 +1,7 @@
 # Hi there, I'm Atharva! 👋
 
 ## 🚀 About Me
-I am an aspiring Computer Science Engineer with a strong interest in Machine Learning, Deep Learning, and Deep Generative Modeling. My passion lies in optimizing large-scale ML models and exploring the boundaries of AI.
+I am an aspiring Computer Science Engineer at the National Institute of Technology Karnataka, Surathkal, with a strong interest in Machine Learning, Deep Learning, and Deep Generative Modeling. My passion lies in optimizing large-scale ML models and exploring the boundaries of AI.
 
 ## 🔬 Research & Interests
 - **Machine Learning & Deep Learning**: Deep Generative Modeling, Generative Adversarial Models, Diffusion Models, Transformer-based Models, Image Processing, Natural Language Processing
