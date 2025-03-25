@@ -1,10 +1,10 @@
 # Hi there, I'm Atharva! 👋
 
 ## 🚀 About Me
-I am an aspiring Computer Science Engineer at the National Institute of Technology Karnataka, Surathkal, with a strong interest in Machine Learning, Deep Learning, and Deep Generative Modeling. My passion lies in optimizing large-scale ML models and exploring the boundaries of AI.
+I am an aspiring Computer Science Engineer at the National Institute of Technology Karnataka, Surathkal, with a strong interest in **Machine Learning, Deep Learning, and Deep Generative Modeling**. My passion lies in optimizing large-scale ML models and exploring the boundaries of AI.
 
 ## 🔬 Research & Interests
-- **Machine Learning & Deep Learning**: Deep Generative Modeling, Generative Adversarial Models, Diffusion Models, Transformer-based Models, Image Processing, Natural Language Processing
+- **Machine Learning & Deep Learning**: Computer Vision and Image Processing, Deep Generative Modeling, Natural Language Processing.
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -29,8 +29,9 @@ I am an aspiring Computer Science Engineer at the National Institute of Technolo
 ## 🌟 Projects
 - **The Brush of Spells**: Implemented Text-Guided Image Inpainting over image-text birds dataset
 - **Diffusion-based Image Generation**: Developed a diffusion model from scratch
+- **Vision Kinect**: Developed an interactive Tetris game controlled using Hand Gestures, detected using **Object Detection**.
 - **FinBot-AI**: Built a **Retrieval-Augmented Generation (RAG)**-based QA chatbot using LangChain
-- **Automatic OMR Scanner and Evaluator**: Combinational and Sequential Circuit-based OMR solution for calculating marks for answer sheets
+- **Automatic OMR Scanner and Evaluator**: Combinational and Sequential Circuit-based OMR Machine for calculating marks for answer sheets.
 
 
 ## 📊 GitHub Stats
