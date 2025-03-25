@@ -42,7 +42,7 @@ I am an aspiring Computer Science Engineer at the National Institute of Technolo
 - Actively contributing to **open-source projects** and participating in **Kaggle competitions**.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/atharva-rege-467543312](#)
+- **LinkedIn**: [https://www.linkedin.com/in/atharva-rege-467543312](https://www.linkedin.com/in/atharva-rege-467543312)
 - **GitHub**: [github.com/Atharva-Rege](#)
 
 Let's build something amazing together! 🚀
