@@ -35,8 +35,8 @@ I am an aspiring Computer Science Engineer at the National Institute of Technolo
 
 
 ## 📊 GitHub Stats
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-Rege&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Rege&layout=compact&theme=radical)
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-Rege&show_icons=true&theme=radical&t=12345)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Rege&layout=compact&theme=radical&t=12345)
 
 ## 📜 Research & Learning
 - Currently exploring **deep generative models** with **GANs** and **Diffusion Models** and **Transformer**-based Models.
