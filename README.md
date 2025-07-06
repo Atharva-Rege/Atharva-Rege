@@ -4,8 +4,8 @@
 I am currently an undergraduate student at the **National Institute of Technology Karnataka (NITK), Surathkal**, pursuing a major in **Computer Science and Engineering**. I am passionate about **Computer Vision, Deep Generative Modeling, and Natural Language Processing**.
 
 ## 🔬 Research & Interests
-- **2D & 3D Computer Vision**: Style Transfer, Material Editing, Controllable Scene Manipulation, Object Composition
-- **Deep Generative Modeling & Multimodal Learning**: Diffusion Models, Generative Adversarial Networks (GANs), Vision-Language Models (VLMs), Representation Learning
+- **2D & 3D Computer Vision**: Style Transfer, Material Editing and Synthesis, Controllable Scene Manipulation, Object Composition
+- **Deep Generative Modeling & Multimodal Learning**: Diffusion Models, Generative Adversarial Networks (GANs), Vision-Language Models (VLMs), Representation Learning, Vision Transformers (ViTs)
 - **Natural Language Processing**: Retrieval-Augmented Generation, Transformers
 
   
@@ -42,7 +42,8 @@ I am currently an undergraduate student at the **National Institute of Technolog
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Rege&layout=compact&theme=radical&t=12345)
 
 ## 📜 Research & Learning
-- Currently exploring **deep generative models** with **GANs** and **Diffusion Models** and **Transformer**-based Models.
+- Currently working on Diffusion-based Material Recomposition and Object Placement methods.
+- Worked **deep generative models** with **Diffusion Models** and **Transformer**-based Models.
 - Actively contributing to **open-source projects** and participating in **Kaggle competitions**.
 
 ## 📫 Connect with Me
