@@ -1,11 +1,14 @@
 # Hi there, I'm Atharva! 👋
 
 ## 🚀 About Me
-I am an aspiring Computer Science Engineer at the National Institute of Technology Karnataka, Surathkal, with a strong interest in **Machine Learning, Deep Learning, and Deep Generative Modeling**. My passion lies in optimizing large-scale ML models and exploring the boundaries of AI.
+I am currently an undergraduate student at the **National Institute of Technology Karnataka (NITK), Surathkal**, pursuing a major in **Computer Science and Engineering**. I am passionate about **Computer Vision, Deep Generative Modeling, and Natural Language Processing**.
 
 ## 🔬 Research & Interests
-- **Machine Learning & Deep Learning**: Computer Vision and Image Processing, Deep Generative Modeling, Natural Language Processing.
+- **2D & 3D Computer Vision**: Style Transfer, Material Editing, Controllable Scene Manipulation, Object Composition
+- **Deep Generative Modeling & Multimodal Learning**: Diffusion Models, Generative Adversarial Networks (GANs), Vision-Language Models (VLMs), Representation Learning
+- **Natural Language Processing**: Retrieval-Augmented Generation, Transformers
 
+  
 ## 🛠️ Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,11 +30,11 @@ I am an aspiring Computer Science Engineer at the National Institute of Technolo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌟 Projects
-- **The Brush of Spells**: Implemented Text-Guided Image Inpainting over image-text birds dataset
-- **Diffusion-based Image Generation**: Developed a diffusion model from scratch
-- **Vision Kinect**: Developed an interactive Tetris game controlled using Hand Gestures, detected using **Object Detection**.
-- **FinBot-AI**: Built a **Retrieval-Augmented Generation (RAG)**-based QA chatbot using LangChain
-- **Automatic OMR Scanner and Evaluator**: Combinational and Sequential Circuit-based OMR Machine for calculating marks for answer sheets.
+- **The Brush of Spells**: Built a **Text-Guided Image Inpainting** model using GANs on an image-text paired dataset.
+- **Diffusion-based Image Generation**: Developed a **diffusion** model from scratch for image generation.
+- **Vision Kinect**: Developed a Tetris gaming interface controlled using Hand Gestures, which are detected using **Object Detection** models like YOLO.
+- **FinBot-AI**: Built a **Retrieval-Augmented Generation (RAG)**-based Q&A chatbot using LangChain.
+- **Automatic OMR Scanner and Evaluator**: Applied Combinational and Sequential Circuits to build an OMR Machine for automated score calculation of answer sheets.
 
 
 ## 📊 GitHub Stats
@@ -44,7 +47,7 @@ I am an aspiring Computer Science Engineer at the National Institute of Technolo
 
 ## 📫 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/atharva-rege-467543312](https://www.linkedin.com/in/atharva-rege-467543312)
-- **GitHub**: [github.com/Atharva-Rege](#)
+- **GitHub**: [github.com/Atharva-Rege](github.com/Atharva-Rege)
 
 Let's build something amazing together! 🚀
 
