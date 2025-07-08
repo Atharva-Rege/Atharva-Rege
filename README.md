@@ -43,7 +43,7 @@ I am currently an undergraduate student at the **National Institute of Technolog
 
 ## 📜 Research & Learning
 - Currently working on Diffusion-based Material Recomposition and Object Placement methods.
-- Worked **deep generative models** with **Diffusion Models** and **Transformer**-based Models.
+- Worked on **generative models**  (**Diffusion Models**, **GANs**, and **Transformer**-based Models).
 - Actively contributing to **open-source projects** and participating in **Kaggle competitions**.
 
 ## 📫 Connect with Me
