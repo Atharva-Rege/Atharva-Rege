@@ -4,7 +4,7 @@
 I am currently an undergraduate student at the **National Institute of Technology Karnataka (NITK), Surathkal**, pursuing a major in **Computer Science and Engineering**. I am passionate about **Computer Vision, Deep Generative Modeling, and Natural Language Processing**.
 
 ## 🔬 Research & Interests
-- **2D & 3D Computer Vision**: Style Transfer, Material Editing and Synthesis, Controllable Scene Manipulation, Object Composition
+- **2D & 3D Computer Vision**: Style Transfer, Material Editing and Synthesis, Controllable Scene Manipulation, Object Composition, 3D-Aware Generation
 - **Deep Generative Modeling & Multimodal Learning**: Diffusion Models, Generative Adversarial Networks (GANs), Diffusion Transformers (DiTs), Vision-Language Models (VLMs), Representation Learning, Vision Transformers (ViTs)
 - **Natural Language Processing**: Retrieval Augmented Generation, Transformers
 
